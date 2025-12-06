@@ -104,14 +104,7 @@ const config: Config = {
    footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Curriculum',
-          items: [
-            { label: 'Foundations', to: '/docs/foundations/week-1-intro' },
-            { label: 'ROS 2', to: '/docs/ros2/week-3-basics' },
-          ],
-        },
-        {
+         {
           title: 'Community',
           items: [
             {
