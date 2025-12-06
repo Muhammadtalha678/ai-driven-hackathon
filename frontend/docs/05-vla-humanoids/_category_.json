@@ -1,7 +1,4 @@
 {
-  "label": "VLA Models & Humanoids",
-  "position": 5,
-  "link": {
-    "type": "generated-index"
-  }
+  "label": "VLA Humanoids",
+  "position": 5
 }
